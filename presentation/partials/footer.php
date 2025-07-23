@@ -1,13 +1,8 @@
-<header class="bg-primary text-white py-4 mb-4 shadow">
+<footer class="mt-5 py-3 text-center text-muted">
     <div class="container">
-        <div class="d-flex justify-content align-items-">
-            <h1 class="h3 mb-0">
-                <i class="fas fa-tasks me-2"></i></i>Task Manager
-            </h1>
-            <a href="" class="btn btn-light">
-                <i class="fas far-plus me-1"></i>New Task
-            </a>
-        </div>
+        <p class="mb-0">
+            Task Manager - developed at BMI Campus &copy; </=date("Y") ?>
+            <a href="https://github.com/shanika2003">Shanika</a>
+        </p>
     </div>
-
-</header>
+</footer>
