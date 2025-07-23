@@ -29,7 +29,7 @@ class Task{
 
         )";
 
-        $this -> conn -> exec($sql);
+        $this->conn-> exec($sql);
     }
 
     //Get all tasks
